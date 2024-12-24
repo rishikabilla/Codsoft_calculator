@@ -1,0 +1,1 @@
+This is a responsive calculator built with HTML, CSS, and JavaScript. It supports basic arithmetic operations, backspace functionality, and dynamic font scaling for long inputs. The design is optimized for both desktop and mobile devices.
